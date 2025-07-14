@@ -5,10 +5,10 @@
   <parent>
     <groupId>net.sf.ehcache</groupId>
     <artifactId>ehcache-root</artifactId>
-    <version>2.10.11-talend</version>
+    <version>2.10.12-talend</version>
     <relativePath>..</relativePath>
   </parent>
-  
+
   <artifactId>management-ehcache-v1</artifactId>
   <name>management-ehcache-v1</name>
   <description>A library defining the ehcache management resource services and resource entities, version 1</description>
@@ -48,5 +48,5 @@
       </plugin>
     </plugins>
   </build>
-  
+
 </project>

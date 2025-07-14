@@ -13,12 +13,12 @@
   <groupId>net.sf.ehcache</groupId>
   <artifactId>ehcache-root</artifactId>
   <packaging>pom</packaging>
-  <version>2.10.11-talend</version>
+  <version>2.10.12-talend</version>
 
   <scm>
     <developerConnection>scm:git:https://github.com/ehcache/ehcache2.git</developerConnection>
   </scm>
-  
+
   <properties>
     <thirdparty-bom.version>4.3.10-SNAPSHOT</thirdparty-bom.version>
     <groovy-maven-plugin.version>2.1.1</groovy-maven-plugin.version>
@@ -161,7 +161,7 @@
               <artifactId>terracotta-shader</artifactId>
               <version>1.2</version>
             </dependency>
-          </dependencies>          
+          </dependencies>
         </plugin>
         <plugin>
           <groupId>org.codehaus.gmaven</groupId>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  
+
   <parent>
     <groupId>net.sf.ehcache</groupId>
     <artifactId>ehcache-root</artifactId>
-    <version>2.10.11-talend</version>
+    <version>2.10.12-talend</version>
     <relativePath>..</relativePath>
   </parent>
-  
+
   <artifactId>management-ehcache-impl-parent</artifactId>
   <name>management-ehcache-impl-parent</name>
   <packaging>pom</packaging>
@@ -19,5 +19,5 @@
     <module>management-ehcache-common</module>
     <module>ehcache-rest-agent</module>
   </modules>
-  
+
 </project>
